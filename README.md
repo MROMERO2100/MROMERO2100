@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Moises Romero
-- 👀 I’m interested in being a java core programmer.
+- 👀 I’m interested in being Full Stack programmer.
 - 🌱 I’m currently learning Angular with Spring Boot, Flutter and Dart.
 - 💞️ I’m looking to collaborate on any project with Java
 - 📫 How to reach me you can write me at my 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moises Romero
 - 👀 I’m interested in being Full Stack programmer.
-- 🌱 I’m currently learning Angular with Spring Boot, Flutter and Dart.
-- 💞️ I’m looking to collaborate on any project with Java
+- 🌱 I’m currently learning JavaScript, React & Node.js
+- 💞️ I’m looking to collaborate on any project with JavaScript, React & Node.js or Java
 - 📫 How to reach me you can write me at my 
 Email: mromero2100@gmail.com
 Linkedin:https://www.linkedin.com/in/mromeromojica/?locale=en_US

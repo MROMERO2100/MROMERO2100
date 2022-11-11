@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moises Romero
-- 👀 I’m interested in being Full Stack Developer.
-- 🌱 I’m currently learning JavaScript, React & Node.js
+- 👀 I’m a Full Stack Developer.
+- 🌱 I’m currently learning React & Node.js
 - 💞️ I’m looking to collaborate on any project with JavaScript, React & Node.js or Java
 - 📫 How to reach me you can write me at my 
 Email: mromero2100@gmail.com

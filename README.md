@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Senior Backend Engineer with 8+ years of experience working with Java, Spring Boot, Mysql, SQL, AWS. I have experience working with ERP Systems offered as SAAS. I like highly engaged teams, great collaboration, flexible schedules and working tirelessly to find solutions that meet both technical requirements and business goals. I can work as Freelancer or Independent Contractor. Let's chat to know how We can create great systems together!
+Senior Backend Engineer with 8+ years of experience working with Java, Spring Boot, Mysql, SQL, AWS. I have experience working with ERP Systems offered as SAAS. 
+
+I like highly engaged teams, great collaboration, flexible schedules and working tirelessly to find solutions that meet both technical requirements and business goals. 
+
+I can work as Freelancer or Independent Contractor. Let's chat to know how We can create great systems together!
 
 *   🌍  I'm based in Managua, Nicaragua
 *   🖥️  See my portfolio at [click here](http://https://moises-romero-portfolio-react-v1.netlify.app/)
